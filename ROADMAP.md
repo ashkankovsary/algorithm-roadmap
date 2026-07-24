@@ -45,7 +45,7 @@ The goal is to build a strong foundation in Algorithms, Data Structures, and Com
 
 ---
 
-# Data Structures (16 Topics)
+# Data Structures (19 Topics)
 
 | ID | Topic | Difficulty | Importance | Prerequisites |
 |----|-------|------------|------------|---------------|
@@ -58,6 +58,7 @@ The goal is to build a strong foundation in Algorithms, Data Structures, and Com
 | DS035 | Queue | Easy | ⭐⭐⭐⭐⭐ | DS005 |
 | DS040 | Monotonic Queue | Medium | ⭐⭐⭐⭐ | DS035 |
 | DS045 | Deque | Easy | ⭐⭐⭐⭐ | DS035 |
+| DS047 | Priority Queue / Heap | Easy | ⭐⭐⭐⭐⭐ | DS035 |
 | DS050 | Hash Tables (Map, Set, Frequency Counting) | Easy | ⭐⭐⭐⭐⭐ | DS005 |
 | DS055 | Coordinate Compression | Medium | ⭐⭐⭐⭐ | DS050 |
 | DS060 | Sparse Table | Medium | ⭐⭐⭐⭐ | DS010 |
@@ -90,7 +91,7 @@ The goal is to build a strong foundation in Algorithms, Data Structures, and Com
 |----|-------|------------|------------|---------------|
 | GR005 | Greedy Basics | Easy | ⭐⭐⭐⭐⭐ | SA030 |
 | GR010 | Greedy with Sorting | Easy | ⭐⭐⭐⭐⭐ | GR005 |
-| GR015 | Greedy with Priority Queue | Medium | ⭐⭐⭐⭐⭐ | DS035 |
+| GR015 | Greedy with Priority Queue | Medium | ⭐⭐⭐⭐⭐ | DS047 |
 | GR020 | Interval Scheduling | Medium | ⭐⭐⭐⭐ | GR010 |
 | GR025 | Greedy on Intervals | Medium | ⭐⭐⭐⭐ | GR020 |
 | GR030 | Sweep Line | Hard | ⭐⭐⭐ | GR025 |
@@ -112,12 +113,12 @@ The goal is to build a strong foundation in Algorithms, Data Structures, and Com
 | G045 | Directed Acyclic Graph (DAG) | Medium | ⭐⭐⭐⭐ | G040 |
 | G050 | Shortest Path (Unweighted Graph) | Easy | ⭐⭐⭐⭐ | G015 |
 | G055 | 0-1 BFS | Medium | ⭐⭐⭐⭐ | G050 |
-| G060 | Dijkstra's Algorithm | Medium | ⭐⭐⭐⭐⭐ | G050 |
+| G060 | Dijkstra's Algorithm | Medium | ⭐⭐⭐⭐⭐ | G050, DS047 |
 | G065 | Bellman-Ford Algorithm | Medium | ⭐⭐⭐⭐ | G060 |
 | G070 | Floyd-Warshall Algorithm | Medium | ⭐⭐⭐ | G065 |
 | G075 | Minimum Spanning Tree | Medium | ⭐⭐⭐⭐⭐ | DS080 |
 | G080 | Kruskal's Algorithm | Medium | ⭐⭐⭐⭐⭐ | G075 |
-| G085 | Prim's Algorithm | Medium | ⭐⭐⭐⭐ | G075 |
+| G085 | Prim's Algorithm | Medium | ⭐⭐⭐⭐ | G075, DS047 |
 | G090 | Kosaraju's Algorithm | Hard | ⭐⭐⭐⭐ | G040 |
 | G095 | Tarjan's Algorithm | Hard | ⭐⭐⭐⭐ | G040 |
 | G100 | Bridges & Articulation Points | Hard | ⭐⭐⭐⭐ | G095 |
@@ -232,7 +233,7 @@ The goal is to build a strong foundation in Algorithms, Data Structures, and Com
 | ADV045 | Link-Cut Tree | Expert | ⭐ | T020 |
 | ADV050 | Fast Fourier Transform (FFT) | Expert | ⭐⭐⭐ | M080 |
 | ADV055 | Number Theoretic Transform (NTT) | Expert | ⭐⭐ | ADV050 |
-| ADV060 | RRandomized Data Structures & Algorithms | Hard | ⭐⭐⭐ | ADV035 |
+| ADV060 | Randomized Data Structures & Algorithms | Hard | ⭐⭐⭐ | ADV035 |
 
 ---
 
@@ -259,7 +260,7 @@ The goal is to build a strong foundation in Algorithms, Data Structures, and Com
 | Category | Topics |
 |----------|-------:|
 | Fundamentals | 8 |
-| Data Structures | 16 |
+| Data Structures | 19 |
 | Searching & Sorting | 7 |
 | Greedy | 6 |
 | Graph | 25 |
@@ -270,7 +271,7 @@ The goal is to build a strong foundation in Algorithms, Data Structures, and Com
 | Geometry | 6 |
 | Advanced | 12 |
 | Special Topics | 11 |
-| **Total** | **138** |
+| **Total** | **141** |
 
 ---
 
