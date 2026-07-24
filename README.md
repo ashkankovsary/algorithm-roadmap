@@ -58,10 +58,9 @@ algorithm-roadmap/
 ├── README.md
 ├── ROADMAP.md
 ├── ALGORITHM_SELECTION_GUIDE.md
-├── CONTRIBUTING.md
 ├── LICENSE
 │
-├── algorithms/
+├── topics/
 │
 ├── problems/
 │
@@ -140,14 +139,6 @@ This repository is intended for:
 * Competitive programmers
 * Technical interview preparation
 * Anyone looking for a structured learning path
-
----
-
-## Contributing
-
-Contributions are welcome.
-
-Please read **CONTRIBUTING.md** before opening a pull request.
 
 ---
 
